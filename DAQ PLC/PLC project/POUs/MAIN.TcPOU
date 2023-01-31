@@ -14,13 +14,17 @@ END_VAR
       <ST><![CDATA[//daq test
 
 //1 2 3
-// một hai ba]]></ST>
+// một hai ba
+
+//bốn]]></ST>
     </Implementation>
     <LineIds Name="MAIN">
       <LineId Id="2" Count="0" />
       <LineId Id="12" Count="0" />
       <LineId Id="11" Count="0" />
       <LineId Id="21" Count="0" />
+      <LineId Id="23" Count="0" />
+      <LineId Id="22" Count="0" />
     </LineIds>
   </POU>
 </TcPlcObject>
